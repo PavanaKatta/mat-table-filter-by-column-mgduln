@@ -1,0 +1,27 @@
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td,
+th {
+  width: 25%;
+}
+
+.my-icon {
+  z-index: 1;
+  position: relative;
+}
+
+.fld {
+  width: 100%;
+}
+
+.inp {
+  width: 90%;
+  height: 34px;
+}
